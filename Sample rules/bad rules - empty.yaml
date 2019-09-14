@@ -1,0 +1,5 @@
+---
+rules:
+  - chain-name: empty-set
+    tcp:
+    udp:

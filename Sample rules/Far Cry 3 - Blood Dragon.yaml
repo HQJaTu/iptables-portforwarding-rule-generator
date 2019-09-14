@@ -1,0 +1,11 @@
+---
+rules:
+  # Far Cry 3: Blood Dragon
+  - chain-name: FarCry3:BloodDragon
+    tcp:
+    - 13000
+    - 13005
+    - 13200
+    - 14000
+    - 14001
+    - 14008

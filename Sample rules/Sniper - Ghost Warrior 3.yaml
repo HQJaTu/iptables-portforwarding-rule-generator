@@ -1,0 +1,8 @@
+---
+rules:
+  # Sniper: Ghost Warrior 3
+  - chain-name: "Sniper:GhostWarrior3"
+    udp:
+      - 26100
+      - 27632
+      - 32500
