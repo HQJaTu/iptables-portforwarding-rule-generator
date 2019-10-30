@@ -1,0 +1,9 @@
+---
+rules:
+  # This information from: https://portforward.com/ghost-recon-wildlands/
+  - chain-name: ghostrecon-wildlands
+    udp:
+      - 3074-3083
+      - 6000
+      - 6160
+      - 7000
